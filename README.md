@@ -1,4 +1,4 @@
-# art_gallery 
+*  art_gallery 
 
 ![form](https://i.ibb.co/yYX8Pbx/registration-form.jpg)
 
